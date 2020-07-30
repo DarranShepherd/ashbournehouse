@@ -1,1 +1,17 @@
 remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+
+title:              The Renovation of Ashbourne House
+description:        Cataloguing the restoration of Ashbourne House, a 19th century cottage in Marsh Gibbon, rural Buckinghamshire.
+author:             Darran Shepherd
+url:                "https://ashbournehouse.blog"
+
+twitter_username:   darranshepherd
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
