@@ -1,7 +1,6 @@
 ---
 title: "Plans for a Flat in the Barn"
 date: 2022-07-30T12:00:00+01:00
-draft: true
 ---
 
 After more time than I care to admit living in a caravan on the driveway as stripping the house got way out of hand, I've admitted that making the house habitable is going to take a lot longer than first expected. It occurred to me recently that an alternative might be preferable, especially when winter rolls around.
