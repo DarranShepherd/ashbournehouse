@@ -2,3 +2,7 @@ baseURL = 'https://ashbournehouse.blog'
 languageCode = 'en-gb'
 title = 'Ashbourne House'
 theme = "ananke"
+
+[[params.ananke_socials]]
+name = "instagram"
+url = "https://www.instagram.com/ashbournehouse/"
